@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\CONTROLADORES3\CONTROLADORES3\bin\Debug\CONTROLADORES3.exe.config
+C:\Users\PC\source\repos\CONTROLADORES3\CONTROLADORES3\bin\Debug\CONTROLADORES3.exe
+C:\Users\PC\source\repos\CONTROLADORES3\CONTROLADORES3\bin\Debug\CONTROLADORES3.pdb
+C:\Users\PC\source\repos\CONTROLADORES3\CONTROLADORES3\obj\Debug\Problema3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CONTROLADORES3\CONTROLADORES3\obj\Debug\CONTROLADORES3.exe
+C:\Users\PC\source\repos\CONTROLADORES3\CONTROLADORES3\obj\Debug\CONTROLADORES3.pdb
